@@ -6,11 +6,13 @@ module.exports = {
       body: ['"Open Sans"'],
     },
     colors: {
-      cream: "#cbb99d",
+      cream: "#e4d4b9",
+      brand: "#a34f18",
       white: "#FFFFFF",
+      success: "#729f6f",
     },
     backgroundImage: {
-      "logo-fondo": "url('/logo-fondo.jpeg')",
+      "logo-fondo": "url('/logo-short.svg')",
     },
   },
 };
